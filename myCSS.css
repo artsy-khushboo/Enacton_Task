@@ -76,14 +76,12 @@
     font-weight: 700;
     letter-spacing: 0.02em;
     line-height: 25px;
-    /* margin-right: 69.48px; */
     margin-top: 60.67px;
     margin-bottom: 82.61;
     text-align: center;
 }
 
 .button-5 {
-    /* position: relative; */
     background: #292525;
     color: #fff;
     box-shadow: 0px 46px 52px rgba(96, 225, 203, 0.56);
@@ -216,7 +214,6 @@ button button-2 {
     text-align: center;
     padding-top: 118.62px;
     color: #292525;
-    /* margin-left: 816.5px; */
     margin-left: auto;
     margin-right: auto;
 }
@@ -232,7 +229,6 @@ button button-2 {
     margin-bottom: 47.66px;
     color: #000;
     opacity: 0.7;
-    /* margin-left: 579.5px; */
     margin-left: auto;
     margin-right: auto;
 }
@@ -244,16 +240,13 @@ button button-2 {
     grid-gap: 30px;
     height: 62%;
     width: 100%;
-    /* background: #000000; */
     margin-bottom: 174.17px;
-    /* margin-top: 306px; */
     justify-content: center;
     align-content: center;
     font-family: 'Circular Std', sans-serif;
 }
 
 .grid-item {
-    /* border: solid 2px black; */
     background: #FDFDFF;
     border-radius: 12px;
     border-top: 7px solid #60E1CB;
@@ -273,8 +266,6 @@ button button-2 {
     color: #7BC0E3;
     width: 24px;
     height: 7.89px;
-    /* margin-top: 32px;
-    margin-left: 6.18px; */
 }
 
 #item-2 {
@@ -331,7 +322,6 @@ button button-2 {
     font-size: 20px;
     font-weight: 700;
     margin-left: 33px;
-    /* margin-top: 174.65px; */
 }
 
 #item-1 h1 {
@@ -351,7 +341,6 @@ button button-2 {
     opacity: 0.7;
     width: 279px;
     height: 73px;
-    /* margin-bottom: 50%; */
     margin-left: 33px;
     margin-top: 16px;
 }
@@ -360,7 +349,6 @@ button button-2 {
     font-size: 20px;
     font-weight: 700;
     margin-left: 33px;
-    /* margin-top: 174.65px; */
 }
 
 #item-2 h1 {
@@ -388,7 +376,6 @@ button button-2 {
     font-size: 20px;
     font-weight: 700;
     margin-left: 33px;
-    /* margin-top: 174.65px; */
 }
 
 #item-3 h1 {
@@ -416,7 +403,6 @@ button button-2 {
     font-size: 20px;
     font-weight: 700;
     margin-left: 33px;
-    /* margin-top: 174.65px; */
 }
 
 #item-4 h1 {
@@ -444,7 +430,6 @@ button button-2 {
     font-size: 20px;
     font-weight: 700;
     margin-left: 33px;
-    /* margin-top: 174.65px; */
 }
 
 #item-5 h1 {
@@ -472,7 +457,6 @@ button button-2 {
     font-size: 20px;
     font-weight: 700;
     margin-left: 33px;
-    /* margin-top: 174.65px; */
 }
 
 #item-6 h1 {
@@ -501,23 +485,16 @@ button button-2 {
     height: 80%;
     align-items: center;
     font-family: 'Circular std', sans-serif;
-    /* margin-bottom: 22.61px; */
     justify-content: center;
 
-}
-
-.col-3 {
-    /* flex-basis: 80%; */
 }
 
 h5 {
     color: #7BC0E3;
     font-size: 24px;
     font-weight: 700;
-    /* text-align: center; */
     line-height: 30px;
     letter-spacing: 0.006em;
-    /* margin-left: 911.5px; */
     text-align: center;
     margin-bottom: 16.33px;
     margin-top: 77.67px;
@@ -528,9 +505,7 @@ h3 {
     font-size: 48px;
     line-height: 61px;
     font-weight: 700;
-    /* margin-left: 782px; */
     text-align: center;
-    /* margin-bottom: 60.67px; */
 }
 
 .ul2 ul li {
@@ -558,7 +533,6 @@ h3 {
 }
 
 .row-4 {
-    /* border: 2px solid grey; */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -566,7 +540,6 @@ h3 {
     font-weight: 450;
     line-height: 31px;
     font-family: 'circular Std', sans-serif;
-    /* margin-top: -150px; */
 }
 
 .col-block {
@@ -589,9 +562,6 @@ h3 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    /* margin: auto; */
-    /* text-align: center; */
-    /* margin-left: 100px; */
 }
 
 .rowHR {
@@ -603,7 +573,6 @@ h3 {
     margin-left: 293px;
     border-width: 4px;
     margin-top: 46.28px;
-    /* border-color: ;   */
 }
 
 .footer-col ul {
@@ -644,7 +613,6 @@ h3 {
 }
 
 .footer-col {
-    /* width: 129px; */
     margin-right: 129.04px;
 }
 
@@ -692,7 +660,6 @@ h3 {
     border-radius: 50%;
     margin-left: -173.5px;
     margin-top: 231.5px;
-    /* margin-bottom: -20px; */
 }
 
 .circular-button {
